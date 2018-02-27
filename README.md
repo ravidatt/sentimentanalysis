@@ -49,7 +49,8 @@ Machine Learning Based approach:
 5) Can only work if data set is available
 
 Naive bayes Classifier:
-NB is supervised Machine learning method.
+
+Naive Bayes is supervised Machine learning method.
 
 6 Steps process
 
